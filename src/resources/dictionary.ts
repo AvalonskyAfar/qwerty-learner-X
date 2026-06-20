@@ -1205,7 +1205,7 @@ const internationalExam: DictionaryResource[] = [
     description: '简单好拼的学术讨论写作词汇',
     category: '国际考试',
     tags: ['TOEFL'],
-    url: 'TOEFL-AcademicDiscussion.json',
+    url: '/dicts/TOEFL-AcademicDiscussion.json',
     length: 208,
     language: 'en',
     languageCategory: 'en',
